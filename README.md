@@ -6,4 +6,5 @@
 * In lasso and ridge regression an extra factor is added which is multiplied by a penalty term, this penalty term reduces the magnitude of the coefficient or slopes of the graph thereby converting the sharp peaks and valleys to smooth bends and curves in the graph.
 * however in ridge model the coefficients cannot be reduced to 0 while in lasso model the coefficients are reduced to 0.
 * so the lasso model also decreases the complexity of the program while providing similar or even better accuracy with less attributes than the other 2 models
+* in the second notebook i have performed PCA to decrease the number of attributes to 3 from 6 and then trained a linear regression model on it
 
